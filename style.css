@@ -1,0 +1,53 @@
+#map {
+    height: 400px;
+    width: 80%;
+    margin: auto;      
+  }
+
+  #center-map {
+    margin: 4%;
+    text-align: center;
+  }
+/* Title */
+  h1 {
+      color: rgb(85, 13, 13);
+      font-family: 'Orbitron', sans-serif;
+      font-size: 35px;
+      margin: 5px;
+      padding: 5px;
+
+  }
+
+  .lead {
+      font-family: 'Orbitron', sans-serif;
+      color: rgb(206, 116, 7);
+      font-size: 24px;
+      margin: 5px;
+      padding: 5px;
+
+  }
+ 
+     
+     
+    body {
+        background-image: rgb(0, 0, 0) !important;
+    
+    }
+     
+    #startDate {
+        color: darkred;
+        font-size: 20px;
+
+    }
+    #endDate {
+        color: darkred;
+        font-size: 20px;
+
+    }
+
+    #modalBtn {
+        position: relative;
+        padding: 5px;
+        margin:2px;
+        left: 42%;
+    }
